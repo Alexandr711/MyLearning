@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VulkanGLFW", "VulkanGLFW\VulkanGLFW.vcxproj", "{B4292A3A-A444-4D59-B849-E1A5E6D2CF9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4292A3A-A444-4D59-B849-E1A5E6D2CF9B}.Debug|x64.ActiveCfg = Debug|x64
+		{B4292A3A-A444-4D59-B849-E1A5E6D2CF9B}.Debug|x64.Build.0 = Debug|x64
+		{B4292A3A-A444-4D59-B849-E1A5E6D2CF9B}.Debug|x86.ActiveCfg = Debug|Win32
+		{B4292A3A-A444-4D59-B849-E1A5E6D2CF9B}.Debug|x86.Build.0 = Debug|Win32
+		{B4292A3A-A444-4D59-B849-E1A5E6D2CF9B}.Release|x64.ActiveCfg = Release|x64
+		{B4292A3A-A444-4D59-B849-E1A5E6D2CF9B}.Release|x64.Build.0 = Release|x64
+		{B4292A3A-A444-4D59-B849-E1A5E6D2CF9B}.Release|x86.ActiveCfg = Release|Win32
+		{B4292A3A-A444-4D59-B849-E1A5E6D2CF9B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68C7D0EE-F025-4E11-9D08-530BB960EA7F}
+	EndGlobalSection
+EndGlobal

@@ -6,3 +6,8 @@
 /Win32API/MainWindow/MainWindow/x64
 /Win32API/MainWindow/.vs
 /ControlStructure/.DS_Store
+/Win32API/VulkanAPILearn/.vs
+/Win32API/VulkanAPILearn/out/build/x64-debug
+/Win32API/VulkanGLFW/.vs
+/Win32API/VulkanGLFW/x64
+/Win32API/VulkanGLFW/VulkanGLFW/x64/Debug
