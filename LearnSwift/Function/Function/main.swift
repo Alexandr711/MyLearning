@@ -32,9 +32,18 @@ func getElem()->(A: Int, B: Int)
     return (a, c)
 }
 
+func printFloat(X: Float)
+{
+    print(X)
+}
+
 printFunc(X: "==================================================")
 printFunc(X: "X + Y")
 print(addFunc(10, 20))
 printFunc(X: "\n==================================================\n")
 print("Result", subFunc(10, 20))
 print("\(getElem().A) \(getElem().B)s")
+
+let c: Float = 34.05325
+
+printFloat(X: c)
